@@ -8,7 +8,7 @@
 $ npm install
 ```
 
-Add DrawSVGPlugin to `node_modules/gsap` from the npm GreenSock folder
+Add the DrawSVGPlugin from the GreenSock `bonus-files-for-npm-users` folder to `node_modules/gsap`
 ```
 npm run dev
 ```
